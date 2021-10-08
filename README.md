@@ -7,4 +7,5 @@ https://docs.google.com/document/d/1qaqjkHfqrQZQFNyVye7nXhJrhp76ZeOrk6UAaansIk8/
 Выходные данные к тестам лежат в tests_output.
 
 Исходный код проекта лежит в папке source_code.
+
 При выполнении компилировалось с помощью gcc.
