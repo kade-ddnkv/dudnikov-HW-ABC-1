@@ -6,3 +6,4 @@ https://docs.google.com/document/d/1qaqjkHfqrQZQFNyVye7nXhJrhp76ZeOrk6UAaansIk8/
 Тесты лежат в tests_input.
 Выходные данные к тестам лежат в tests_output.
 
+Исполняемый файл ABCproject лежит в папке cmake-build-debug.
